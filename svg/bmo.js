@@ -3,12 +3,12 @@
  * @ Create Time: 2020-04-09 07:21:25
  * @ Modified by: Your name
  * @ Modified by: Your name
- * @ Modified time: 2021-01-18 10:05:34
+ * @ Modified time: 2021-01-18 17:19:45
  */
 
 // SVG bmo
 
-module.exports = `<svg id="card-bmo" version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000" preserveAspectRatio="xMidYMid meet">
+module.exports = `<svg id="card-bmo" version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
 <g id="layer101" fill="#ed1d26" stroke="none"><path d="M0 1000 l0 -1000 1000 0 1000 0 0 1000 0 1000 -1000 0 -1000 0 0 -1000z"/></g>
 <g id="layer102" fill="#0079c0" stroke="none"><path d="M0 1000 l0 -1000 1000 0 1000 0 0 1000 0 1000 -1000 0 -1000 0 0 -1000z m1195 740 c267 -68 476 -280 551 -560 23 -88 23 -272 0 -360 -62 -231 -201 -403 -415 -510 -149 -74 -360 -95 -524 -51 -265 71 -477 283 -548 548 -29 108 -29 278 0 386 79 298 327 518 636 566 79 13 209 4 300 -19z"/></g>
 <g id="layer103" fill="#ffffff" stroke="none"><path d="M640 1215 l0 -115 360 0 360 0 0 115 0 115 -360 0 -360 0 0 -115z"/><path d="M640 939 l0 -151 83 -104 c45 -57 89 -104 98 -104 9 0 49 43 88 95 45 59 80 95 91 95 11 0 46 -36 91 -95 39 -52 79 -95 88 -95 9 0 53 47 99 104 l83 105 -3 153 -3 153 -79 -102 c-47 -62 -86 -103 -97 -103 -10 0 -46 38 -90 95 -41 55 -79 95 -89 95 -10 0 -48 -40 -89 -95 -44 -57 -80 -95 -90 -95 -11 0 -49 40 -95 100 -42 55 -79 100 -82 100 -2 0 -4 -68 -4 -151z"/></g>

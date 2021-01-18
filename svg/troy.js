@@ -3,13 +3,13 @@
  * @ Create Time: 2020-04-09 07:21:25
  * @ Modified by: Your name
  * @ Modified by: Your name
- * @ Modified time: 2021-01-16 18:27:57
+ * @ Modified time: 2021-01-18 17:27:24
  */
 
 // SVG switch
 
-module.exports = `<svg version="1.1" id="card-troy" xmlns="http://www.w3.org/2000/svg" xmlns: xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="138px" viewBox="0 0 300 138" enable-background="new 0 0 300 138" xml: space="preserve">  <image id="image0" width="300" height="138" x="0" y="0"
-    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACKCAYAAAAQT3cyAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+module.exports = `<svg version="1.1" id="card-troy" xmlns="http://www.w3.org/2000/svg" xmlns: xlink="http://www.w3.org/1999/xlink"  xml: space="preserve">
+  <image id="image-troy" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACKCAYAAAAQT3cyAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAA
 CXBIWXMAAA7DAAAOwwHHb6hkAAAx3klEQVR42u2deXxd1XXvf2vvfc7V1WDJNrMNBoyNB+GBQIBi
 yxiwLTOEGIxJ2ldokpc0bV4ztEn70tAmJM1rQlP6Mry0TdqEdAgxgZjZkmdJDkMYJBsTDGHGTAaP

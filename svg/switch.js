@@ -3,12 +3,12 @@
  * @ Create Time: 2020-04-09 07:21:25
  * @ Modified by: Your name
  * @ Modified by: Your name
- * @ Modified time: 2021-01-16 18:19:08
+ * @ Modified time: 2021-01-18 17:26:07
  */
 
 // SVG switch
 
-module.exports = `<svg id="card-switch" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+module.exports = `<svg id="card-switch" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="_bank_x2C__debit_x2C__card_x2C__switch_x2C_">
         <g>
             <path d="M495.998,389.995c0,8.836-7.221,15.965-16.051,15.965H32.053    c-8.836,0-16.051-7.129-16.051-15.965V121.999c0-8.836,7.215-15.959,16.051-15.959h447.895c8.83,0,16.051,7.123,16.051,15.959    V389.995L495.998,389.995z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#1D9F70;" />

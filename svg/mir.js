@@ -3,13 +3,12 @@
  * @ Create Time: 2020-04-09 07:21:25
  * @ Modified by: Your name
  * @ Modified by: Your name
- * @ Modified time: 2021-01-16 18:01:48
+ * @ Modified time: 2021-01-18 17:24:05
  */
 
 // SVG mir
 
-module.exports = `<svg id="card-mir" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-viewBox="0 0 780 500" style="enable-background:new 0 0 780 500;" xml:space="preserve">
+module.exports = `<svg id="card-mir" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
 <style type="text/css">
 .st0{fill:#FFFFFF;}
 .st1{fill:#37A72E;}

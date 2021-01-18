@@ -3,13 +3,12 @@
  * @ Create Time: 2020-04-09 07:21:25
  * @ Modified by: Your name
  * @ Modified by: Your name
- * @ Modified time: 2021-01-18 09:22:30
+ * @ Modified time: 2021-01-18 17:20:31
  */
 
 // SVG cibc
 
-module.exports = `<svg id="card-cibc" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-viewBox="0 0 300 274" style="enable-background:new 0 0 300 274;" xml:space="preserve">
+module.exports = `<svg id="card-cibc" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" " xml:space="preserve">
 <rect y="0.727" style="fill:#B00B1C;" width="300" height="273.273"/>
 <path style="fill:#FFD401;" d="M14.008,191.949c0,12.43,0,19.522,0,29.62c47.355-26.756,137.197-66.76,272.951-77.882
 c0-2.447,0-3.942,0-6.395C187.179,142.759,92.926,161.391,14.008,191.949"/>

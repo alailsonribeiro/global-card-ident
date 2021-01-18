@@ -3,13 +3,13 @@
  * @ Create Time: 2020-04-09 07:21:25
  * @ Modified by: Your name
  * @ Modified by: Your name
- * @ Modified time: 2021-01-16 18:14:01
+ * @ Modified time: 2021-01-18 17:24:50
  */
 
 // SVG nps
 
-module.exports = `<svg version="1.1" id="card-nps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 160 100" enable-background="new 0 0 160 100" xml:space="preserve">  
-<image id="image0" width="160" height="100" x="0" y="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAABkCAMAAAA2aMu9AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+module.exports = `<svg version="1.1" id="card-nps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">  
+<image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAABkCAMAAAA2aMu9AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAADAFBMVEX////94OH5uLr829zx
 +vWy5sfL7trY8uLe9OfB69L1/Pj7ztD+7Oz3m5/zYmj2jZHzaW/R8N04vm6F16Z10ppXyIRdyomU
 3LEwu2jg9en1f4PxTFP6xsj4qq1mzY+j4bz94+T3mJzzbHH0c3j2h4tEwneV3LKC1qROxX5+1aFq

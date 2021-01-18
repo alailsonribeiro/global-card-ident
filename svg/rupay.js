@@ -3,12 +3,12 @@
  * @ Create Time: 2020-04-09 07:21:25
  * @ Modified by: Your name
  * @ Modified by: Your name
- * @ Modified time: 2021-01-16 17:10:47
+ * @ Modified time: 2021-01-18 17:25:19
  */
 
 // SVG tunion
 
-module.exports = `<svg id="card-rupay" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 76" version="1.1">
+module.exports = `<svg id="card-rupay" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <g id="round-rect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
     <g id="payment_016-rupay-card">
         <path d="M111.998561,0 L8.0014394,0 C3.58236644,0 0,3.58906554 0,8.00758637 L0,67.9924136 C0,72.4148815 3.59136164,76 8.0014394,76 L111.998561,76 C116.417634,76 120,72.4109345 120,67.9924136 L120,8.00758637 C120,3.58511853 116.408638,0 111.998561,0 Z" id="bg" fill="#F4F4F4"/>

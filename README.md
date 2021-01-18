@@ -22,15 +22,23 @@ $ npm i global-card-ident
 const CardIdent = require('global-card-ident')
 
 console.log(CardIdent('5031 4332 1540 6351'))
-console.log(CardIdent('4235 6477 2802 5682'))
-console.log(CardIdent('3753 651535 56885'))
 
 ```
 ## Return sample:
 
 ```
 {
-  type: 'credit',
+  issuer: 'Mastercard',
+  brand: 'mastercard',
+  logo: '<svg id="card-maestercard"  xmlns="http://www.w3.org/2000/svg">.../image data/...</svg>',
+  prefixes: '5',
+  mask: '0000 0000 0000 0000',
+  regex: '^(5[1-5]\\d{0,2}|22[2-9]\\d{0,1}|2[3-7]\\d{0,2})\\d{0,12}',
+  active: true,
+  length: [ 16 ],
+  validation: true,
+  number: 5031433215406351,
+  industry: 'Banking and financial'
 }
 ```
 

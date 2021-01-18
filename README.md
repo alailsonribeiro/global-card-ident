@@ -6,9 +6,9 @@ Identificador global de JavaScript para o número do cartão de crédito para ba
 
 Identificador JavaScript global para el número de tarjeta de crédito para marcas/emisores globales. Devolución de datos, máscara, expresiones regulares e imagen de marca/logotipo en SVG.
 
-**Default use 
+##Default use 
 
-*How to use:
+#How to use:
 ```
 const CardIdent = require('global-card-ident')
 
@@ -17,7 +17,7 @@ console.log(CardIdent('4235 6477 2802 5682'))
 console.log(CardIdent('3753 651535 56885'))
 
 ```
-**Return sample:
+##Return sample:
 
 ```
 {
@@ -26,7 +26,7 @@ console.log(CardIdent('3753 651535 56885'))
 ```
 
 
-**Return from npm test
+##Return from npm test
 
 ```
 $ npm test
@@ -76,23 +76,23 @@ $ npm test
 
 ```
 
-**Join here -> Project at GitHub 
+##Join here -> Project at **GitHub** 
 
-If you are interested in contributing with new checkups for other types of documents related to Brazil and / or other countries, contact us by clicking on [New Issue] at link https://github.com/slomkowski/octoglow/issues of GitHub, for know how to get involved in the project.
+If you are interested in contributing with new checkups for other types of documents related to Brazil and / or other countries, contact us by clicking on [New Issue] at link https://github.com/alailsonribeiro/global-card-ident/issues of **GitHub**, for know how to get involved in the project.
 
-Se você tiver interesse em contribuir com novos checkups para outros tipos de documentos relacionados ao Brasil e / ou outros países, entre em contato conosco clicando em [New Issue] no link https://github.com/slomkowski/octoglow/issues of GitHub, para saber como se envolver no projeto.
+Se você tiver interesse em contribuir com novos checkups para outros tipos de documentos relacionados ao Brasil e / ou outros países, entre em contato conosco clicando em [New Issue] no link https://github.com/alailsonribeiro/global-card-ident/issues of **GitHub**, para saber como se envolver no projeto.
 
-Si está interesado en contribuir con nuevos chequeos para otro tipo de documentos relacionados con Brasil y / u otros países, contáctenos haciendo clic en [New Issue] en el enlace https://github.com/slomkowski/octoglow/issues de GitHub , para aprender a involucrarse en el proyecto.
+Si está interesado en contribuir con nuevos chequeos para otro tipo de documentos relacionados con Brasil y / u otros países, contáctenos haciendo clic en [New Issue] en el enlace https://github.com/alailsonribeiro/global-card-ident/issues de **GitHub** , para aprender a involucrarse en el proyecto.
 
-Si vous souhaitez contribuer à de nouveaux contrôles pour d'autres types de documents liés au Brésil et / ou à d'autres pays, contactez-nous en cliquant sur [Nouveau numéro] sur le lien https://github.com/slomkowski/octoglow/issues de GitHub , pour apprendre à s'impliquer dans le projet.
+Si vous souhaitez contribuer à de nouveaux contrôles pour d'autres types de documents liés au Brésil et / ou à d'autres pays, contactez-nous en cliquant sur [Nouveau numéro] sur le lien https://github.com/alailsonribeiro/global-card-ident/issues de **GitHub** , pour apprendre à s'impliquer dans le projet.
 
-Wenn Sie daran interessiert sind, neue Überprüfungen für andere Arten von Dokumenten in Bezug auf Brasilien und / oder andere Länder durchzuführen, kontaktieren Sie uns, indem Sie unter dem Link https://github.com/slomkowski/octoglow/issues von GitHub auf [Neue Ausgabe] klicken , um zu lernen, wie man sich an dem Projekt beteiligt.
+Wenn Sie daran interessiert sind, neue Überprüfungen für andere Arten von Dokumenten in Bezug auf Brasilien und / oder andere Länder durchzuführen, kontaktieren Sie uns, indem Sie unter dem Link https://github.com/alailsonribeiro/global-card-ident/issues von **GitHub** auf [Neue Ausgabe] klicken , um zu lernen, wie man sich an dem Projekt beteiligt.
 
-如果您有兴趣对巴西和/或其他国家/地区的其他类型的文档进行新的检查，请在此处与Pojects GitHub联系，以了解如何参与该项目。
+如果您有兴趣对巴西和/或其他国家/地区的其他类型的文档进行新的检查，请在此处与Pojects **GitHub**联系，以了解如何参与该项目。
 
-إذا كنت مهتمًا بالمساهمة في عمليات فحص جديدة لأنواع أخرى من المستندات المتعلقة بالبرازيل و / أو دول أخرى ، فاتصل بنا من خلال النقر على [إصدار جديد] على الرابط https://github.com/slomkowski/octoglow/issues of GitHub لتعلم كيفية المشاركة في المشروع.
+إذا كنت مهتمًا بالمساهمة في عمليات فحص جديدة لأنواع أخرى من المستندات المتعلقة بالبرازيل و / أو دول أخرى ، فاتصل بنا من خلال النقر على [إصدار جديد] على الرابط https://github.com/alailsonribeiro/global-card-ident/issues of **GitHub** لتعلم كيفية المشاركة في المشروع.
 
-ブラジルや他の国に関連する他の種類のドキュメントの新しい検査に貢献することに興味がある場合は、リンクhttps://github.com/slomkowski/octoglow/issues ofGitHubの[NewIssue]をクリックしてお問い合わせください。 、プロジェクトに参加する方法を学びます。
+ブラジルや他の国に関連する他の種類のドキュメントの新しい検査に貢献することに興味がある場合は、リンクhttps://github.com/alailsonribeiro/global-card-ident/issues of**GitHub**の[NewIssue]をクリックしてお問い合わせください。 、プロジェクトに参加する方法を学びます。
 
 
 

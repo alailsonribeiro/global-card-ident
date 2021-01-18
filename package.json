@@ -1,0 +1,43 @@
+{
+  "name": "global-card-ident",
+  "version": "1.0.1",
+  "description": "JavaScript identifier for the Credit Card number for Global Issuers/Brands. Returning data, mask, regex and brand/logo image",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Credit Card",
+    "Issuers",
+    "Master",
+    "Visa",
+    "Amex",
+    "Diners",
+    "Cielo",
+    "Cartões",
+    "Débito",
+    "Debit",
+    "MercadoPago",
+    "PagSeguro",
+    "PayPal",
+    "Identifier",
+    "Identificador",
+    "API"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alailsonribeiro/global-card-ident.git"
+  },
+  "author": "\"Alailson Barbosa Ribeiro\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alailsonribeiro/global-card-ident/issues"
+  },
+  "homepage": "https://github.com/alailsonribeiro/global-card-ident#readme",
+  "dependencies": {
+    "global-card-ident": "^1.0.0"
+  }
+}
